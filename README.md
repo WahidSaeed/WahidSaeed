@@ -1,16 +1,5 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║     █████╗ ██████╗ ██████╗ ██╗   ██╗██╗         ██╗    ██╗      ║
-║    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║         ██║    ██║      ║
-║    ███████║██████╔╝██║  ██║██║   ██║██║         ██║ █╗ ██║      ║
-║    ██╔══██║██╔══██╗██║  ██║██║   ██║██║         ██║███╗██║      ║
-║    ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗    ╚███╔███╔╝      ║
-║    ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝     ╚══╝╚══╝       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 ### Software Engineer • Algorithm Enthusiast • Berlin 🇩🇪
 
 10+ Years Experience | Specialized in Optimization & Data-Driven Systems
@@ -208,7 +197,3 @@ def my_approach():
 </details>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer" width="100%"/>
-</div>
