@@ -1,29 +1,53 @@
+<div align="center">
+
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
 ║     █████╗ ██████╗ ██████╗ ██╗   ██╗██╗         ██╗    ██╗      ║
 ║    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║         ██║    ██║      ║
 ║    ███████║██████╔╝██║  ██║██║   ██║██║         ██║ █╗ ██║      ║
 ║    ██╔══██║██╔══██╗██║  ██║██║   ██║██║         ██║███╗██║      ║
 ║    ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗    ╚███╔███╔╝      ║
 ║    ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝     ╚══╝╚══╝       ║
-║                                                                  ║
-║              Software Engineer • Algorithm Enthusiast            ║
-║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+### Software Engineer • Algorithm Enthusiast • Berlin 🇩🇪
 
-### 👨‍💻 `whoami`
+10+ Years Experience | Specialized in Optimization & Data-Driven Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidsaeed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=flat&logo=google-chrome&logoColor=black)](https://wahidsaeed.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wahidsaeed1@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ctzsE1n9nsm-D5jeVK5gcUCISIya90Wt/view?usp=sharing)
 
 </div>
+
+---
+
+<br>
+
+<!-- Pinned repositories will appear here -->
+
+<br>
+
+<!-- Contribution graph will appear here -->
+
+<br>
+
+---
+
+<details>
+<summary>📖 <b>More About Me</b> (click to expand)</summary>
+
+<br>
+
+### 👨‍💻 `whoami`
 
 ```bash
 > cat about.me
 ```
 
-**Master's Student in Computer Science**  
+**Master's Student in Computer Science** @ Gisma University, Berlin 🇩🇪  
 **10+ Years** of Software Engineering Experience  
 **Specialized in:** Optimization, Algorithms & Data-Driven Systems
 
@@ -31,11 +55,7 @@ Currently crafting scalable solutions and optimizing workflows across **fintech,
 
 ---
 
-<div align="center">
-
 ### 🛠️ `ls -la ~/tech-stack`
-
-</div>
 
 ```python
 tech_stack = {
@@ -65,11 +85,7 @@ tech_stack = {
 
 ---
 
-<div align="center">
-
 ### 💼 `cat experience.log | tail -3`
-
-</div>
 
 ```javascript
 const recentExperience = [
@@ -111,25 +127,21 @@ const recentExperience = [
 
 ---
 
-<div align="center">
-
 ### 📊 `git stats`
-
-</div>
 
 <div align="center">
 
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahidsaeed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidsaeed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidsaeed&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
 </div>
 
 ---
 
-<div align="center">
-
 ### 🎯 `./current-focus.sh`
-
-</div>
 
 ```bash
 #!/bin/bash
@@ -143,28 +155,7 @@ echo "📚 Contributing to open source when possible"
 
 ---
 
-<div align="center">
-
-### 📫 `connect --with=abdul`
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidsaeed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://wahidsaeed.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidsaeed1@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ctzsE1n9nsm-D5jeVK5gcUCISIya90Wt/view?usp=sharing)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🏆 `achievements --list`
-
-</div>
 
 ```yaml
 Career Highlights:
@@ -187,11 +178,7 @@ Languages:
 
 ---
 
-<div align="center">
-
 ### 💡 `./philosophy.txt`
-
-</div>
 
 > *"Clean code, optimized algorithms, and scalable systems aren't just best practices—they're a commitment to excellence."*
 
@@ -206,11 +193,7 @@ def my_approach():
 
 ---
 
-<div align="center">
-
 ### 📈 `profile --activity`
-
-</div>
 
 <div align="center">
 
@@ -220,23 +203,24 @@ def my_approach():
 
 ---
 
-<div align="center">
-
 ```bash
 > fortune
 "The best time to plant a tree was 20 years ago. 
  The second best time is now." - Chinese Proverb
-
-> exit
-Thank you for visiting! Feel free to explore my repositories. 🚀
 ```
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/wahidsaeed/count.svg)
 
 **⭐ Star my repos if you find them useful!**
 
 </div>
 
+</details>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer" width="100%"/>
 </div>
