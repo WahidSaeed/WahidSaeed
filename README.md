@@ -24,18 +24,6 @@
 
 ---
 
-<br>
-
-<!-- Pinned repositories will appear here -->
-
-<br>
-
-<!-- Contribution graph will appear here -->
-
-<br>
-
----
-
 <details>
 <summary>📖 <b>More About Me</b> (click to expand)</summary>
 
