@@ -41,7 +41,7 @@ tech_stack = {
     "frontend": ["React", "Next.js", "Angular", "React Native"],
     "databases": ["Oracle", "PostgreSQL", "MySQL", "MongoDB", "MS SQL"],
     "cloud": ["AWS", "Azure", "Docker", "Jenkins", "GitLab CI/CD"],
-    "specialties": ["Algorithm Design", "ETL Pipelines", "BPM Workflows", "Optimization"]
+    "specialties": ["Algorithm Design", "AI/ML", "Foundation Models"]
 }
 ```
 
