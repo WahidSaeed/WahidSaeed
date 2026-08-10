@@ -25,7 +25,7 @@
 ```
 
 **Master's Student in Computer Science** @ Gisma University, Berlin 🇩🇪  
-**10+ Years** of Software Engineering Experience  
+**3+ Years** of Software Engineering Experience  
 **Specialized in:** Optimization, Algorithms & Data-Driven Systems
 
 Currently crafting scalable solutions and optimizing workflows across **fintech, defense, and enterprise** sectors.
