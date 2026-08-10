@@ -2,7 +2,7 @@
 
 ### Software Engineer • Algorithm Enthusiast • Berlin 🇩🇪
 
-10+ Years Experience | Specialized in Optimization & Data-Driven Systems
+3+ Years Experience | Specialized in Optimization & Data-Driven Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidsaeed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=flat&logo=google-chrome&logoColor=black)](https://wahidsaeed.github.io)
