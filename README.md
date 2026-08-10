@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahidsaeed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=flat&logo=google-chrome&logoColor=black)](https://wahidsaeed.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wahidsaeed1@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ctzsE1n9nsm-D5jeVK5gcUCISIya90Wt/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=read-the-docs&logoColor=white)](https://wahidsaeed.github.io/assets/resume/Abdul-Wahid-Resume.pdf)
 
 </div>
 
